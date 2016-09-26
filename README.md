@@ -10,7 +10,7 @@ Please visit the original source, [Sean Lahman's site](http://www.seanlahman.com
 * Open a Terminal prompt in Cloud 9.
 * Run the following command:
 ```
-    git clone https://github.com/ics4u-rsgc-2016/baseball-data-2015.git
+    git clone https://github.com/rsgc-ics4u-2016/baseball-data-2015.git
 ```    
 * Switch to the newly created directory:
 ```    
